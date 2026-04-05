@@ -8,4 +8,4 @@ permissions:
 jobs:
   welcome:
       name: Post welcome commit
-      runs-on: ubutntu-latest
+      runs-on: ubuntu-latest
